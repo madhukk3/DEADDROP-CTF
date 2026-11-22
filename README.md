@@ -45,11 +45,7 @@ steps to reproduce it. Scripts are inlined where they are short.
 | [Sundial](Sundial_writeup.md) | Crypto | `CTF{4ll_th3_h0urs_4dd_t0_n00n_wh3n_th3_g0lds_c4nc3l}` |
 | [Trivet](Trivet_writeup.md) | Crypto | `CTF{f0ur_sh4d0ws_0n3_3xp0n3nt_n0_r00m_w4s_3n0ugh}` |
 
-## Unsolved
 
-| Challenge | Category | Status |
-|---|---|---|
-| [Sprue](38_Sprue.md) | Hardware / I2C | Key recovered from the EEPROM page-write wraparound; the two ciphertext blobs are still undecrypted. |
 
 [ctf_writeup.md](ctf_writeup.md) is an earlier session summary and overlaps with
 the per-challenge files above.
